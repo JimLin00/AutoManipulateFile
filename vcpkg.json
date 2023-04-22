@@ -1,0 +1,13 @@
+{
+  "name" : "automanipulatefile",
+  "version-string" : "1.0.0",
+  "builtin-baseline" : "6b7352ef918f4a2c1ca0a5e5ee629c3f4c4c4d2c",
+  "dependencies" : [ {
+    "name" : "libssh",
+    "version>=" : "0.10.4+20221123#3"
+  }, {
+    "name" : "yaml-cpp",
+    "version>=" : "0.7.0#1",
+    "$comment" : "    # this is heuristically generated, and may not be correct\n\n    find_package(yaml-cpp CONFIG REQUIRED)\n\n    target_link_libraries(main PRIVATE yaml-cpp)\n"
+  } ]
+}

@@ -1,0 +1,10 @@
+#基於computer BaseDir 底下的位置
+subDir: 'plugin'
+
+#檔案名稱
+fileName: 'config.yml'
+
+#更改變數路徑
+nodePath: 'sounds.uiClick'
+#更改變數值
+nodeValue: 'UI_BUTTON_PUSH'

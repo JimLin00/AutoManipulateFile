@@ -1,0 +1,9 @@
+IntelI9:
+  ips:
+    -
+  port:
+  user:
+  key: 'keys/'
+  #所有要改動的目錄
+  BaseDir:
+    -

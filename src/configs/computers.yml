@@ -1,0 +1,20 @@
+AMD5950:
+  ips:
+    -
+  port:
+  user: ''
+  key: 'keys/'
+  #所有要改動的目錄
+  BaseDir:
+    -
+
+
+AMD7950:
+  ips:
+    -
+  port:
+  user: ''
+  key: 'keys/'
+  #所有要改動的目錄
+  BaseDir:
+    -

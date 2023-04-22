@@ -1,0 +1,3 @@
+#基於computer BaseDir 底下的位置
+subDir: 'plugin'
+fileName: 'config.yml'

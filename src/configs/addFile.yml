@@ -1,0 +1,6 @@
+#基於computer BaseDir 底下的位置
+subDir: 'plugin'
+
+#要複製的檔案
+#該資料夾底下所有的檔案
+targetFiles: 'target'

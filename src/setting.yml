@@ -1,0 +1,8 @@
+#取得電腦資訊
+ComputerConfig: 'configs/testComputer.yml'
+#新增檔案
+AddFileConfig: 'configs/addFile.yml'
+#刪除檔案
+DeleteFileConfig: 'configs/deleteFile.yml'
+#修改YAML檔
+ModifyYAMLConfig: 'configs/modifyYaml.yml'
